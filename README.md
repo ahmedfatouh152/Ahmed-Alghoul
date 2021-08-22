@@ -6,13 +6,13 @@
     in the web application
  3. The third part is generating test cases for Google search Engine and implementing automation test cases.
 
-#### The First Part (Test Design for AWZ Shopping website):
+#### -The First Part (Test Design for AWZ Shopping website):
 The Design process is implemented to cover some of the test cases for the website and to make a good coverage for the main purpose of the website which completing the buying process smoothly.
 
-#### The Second Part (Testing the Web app and reporting the bugs found)
+#### -The Second Part (Testing the Web app and reporting the bugs found)
 The testing process for the website is done on operation system of Windows 10 with screen of 15 inch and using google chrome (92.0.4515.131 [64-bit]), and found in the system 8 bugs and some other enhancements reported.
 
-#### The Third Part (Automating test cases for Google Search Engine)
+#### -The Third Part (Automating test cases for Google Search Engine)
 The automation test scripts are developed using Selenium + Java and integrated with Cucumber and testng. The project is designed to be independant from each other where the tester can run a test for any feature without the need to run the whole project. 
 
 ##### 1. _Project Execution_
