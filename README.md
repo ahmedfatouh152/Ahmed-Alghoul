@@ -17,7 +17,7 @@ The automation test scripts are developed using Selenium + Java and integrated w
 
 ##### 1. _Project Execution_
 - To execute the project, the tester need to make sure that all JARs used in the project is added to the project locally.
-- All the JARs needed can be found in the [JARs Folder](https://github.com/ahmedfatouh15-arch/googleSearch/tree/master/JARs) in the repository.
+- All the JARs needed can be found in the [JARs Folder](https://github.com/ahmedfatouh152/Ahmed-Alghoul/tree/main/Cucumber%20JARs) in the repository.
 - After confirming that the JARs are already added to the project, the tester should navigate to `main_Runner.java` file and run it as **JUnit Test**.
 - The project will begin to run and execute the features one by one and shows their status in the **JUnit Side Menu**
 - The test should be executed over a chrome browser of Version 92.0.4515.159 (Official Build) (64-bit) or the tester will need to change the Browser driver in the BrowserDriver folder.
